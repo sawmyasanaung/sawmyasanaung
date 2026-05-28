@@ -1,7 +1,6 @@
 <div align="center">
 
 <!-- ANIMATED HEADER TYPING EFFECT -->
-<img src="https://readme-typing-svg.demolab.com/?lines=✨+WELCOME+TO+MY+PROFILE+✨;🚀+FULL+STACK+DEVELOPER;💻+BUILDING+COOL+PROJECTS;🎯+ALWAYS+LEARNING+MORE&font=Fira%20Code&center=true&width=550&height=45&color=6366F1&vCenter=true&pause=400" alt="Typing Animation" />
 
 <!-- GLOWING NEON SEPARATOR -->
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
@@ -32,6 +31,11 @@ I am a passionate Full-Stack developer deep-diving into software development. Cu
 </table>
 
 ---
+## 🕹️ My Contribution Grid (Snake Game)
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
+</div>
 
 ## 🛠️ My Tech Stack
 
@@ -54,18 +58,6 @@ I am a passionate Full-Stack developer deep-diving into software development. Cu
 
 ---
 
-## 📊 Git Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME_HERE&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
-</div>
-
----
-
-<div align="center">
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
-
-*“The more I learn, the more I realize how much I don't know.”*
 
 </div>
 <div align="center">
@@ -77,24 +69,8 @@ I am a passionate Full-Stack developer deep-diving into software development. Cu
 <div align="center">
 
 <img src="https://readme-typing-svg.demolab.com/?lines=FULL+STACK+DEVELOPER;+UI/UX+DESIGNER;+OPEN+SOURCE+CONTRIBUTOR;+BUILDING+THE+FUTURE+%E2%9C%A8&font=Fira%20Code&center=true&width=600&height=50&color=f00&vCenter=true&pause=300" alt="Animated Typing Header" />
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
-
-
-## 🕹️ My Contribution Grid (Snake Game)
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
-</div>
-
-
-
-
-
-
-
-
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3B0NjZ4Y29ndmZ3bXZpYXN0b3R3ODFzZ3VjN2h1Z2MxNHp5ZHp6OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/L1R1tvI9svkIWwpVYr/giphy.gif" width=100% alt="Animated Laptop">
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
 
 
